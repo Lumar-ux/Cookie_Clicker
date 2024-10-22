@@ -6,7 +6,6 @@
 
 Bienvenue dans **"Mike's Web Dev Bootcamp"**, un jeu addictif et amusant basé sur le concept du célèbre Cookie Clicker, mais avec une touche unique. Ici, le cookie est remplacé par la tête de **Mike**, notre coach charismatique chez **BeCode**, et chaque clic vous rapproche de la maîtrise du développement web.
 
-- **Lien du projet GitHub** : [Cookie Clicker Repository](git@github.com:MGausseran/Cookie_Clicker.git)
 - **Lien de déploiement** : [Jouer en ligne](https://mgausseran.github.io/Cookie_Clicker/)
 
 ## Description du jeu
