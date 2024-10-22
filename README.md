@@ -1,7 +1,3 @@
-Voici une version enrichie et professionnelle du **README.md** pour ton projet **Cookie Clicker**, mettant en valeur le contexte, l'humour et la finalité du projet, tout en attirant l'attention des recruteurs potentiels dans le secteur du développement web :
-
----
-
 # Mike's Web Dev Bootcamp - Cookie Clicker
 
 **Un jeu web captivant pour maîtriser le développement en cliquant sur la tête de votre coach !**
@@ -77,7 +73,3 @@ Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer 
 ## Licence
 
 Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](https://opensource.org/licenses/MIT) pour plus de détails.
-
----
-
-Ce **README.md** met en avant de manière ludique et professionnelle ton projet, tout en soulignant les compétences techniques acquises. Il est parfaitement adapté pour un public IT et des recruteurs potentiels.
